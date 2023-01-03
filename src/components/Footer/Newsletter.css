@@ -36,7 +36,7 @@
     }
 }
 
-@media screen and (max-width: 990) {
+@media screen and (max-width: 990px) {
     .app__newsletter-input {
         flex-direction: column;
         width: 100%;
