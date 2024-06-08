@@ -2,6 +2,6 @@
 
 This web app: **Displays info about a restaurant and it's available dishes**
 
-Here's a walkthrough of implemented user stories:
+Here's a screenshot of the web page:
 
-![](gerich-restaurant.gif)
+![](gerich-restaurant.png)
